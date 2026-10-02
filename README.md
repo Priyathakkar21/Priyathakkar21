@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Priya Thakkar
 
-<!--
-**Priyathakkar21/Priyathakkar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student  
+💻 Web Development Learner  
+🌱 Currently learning HTML, CSS, JavaScript & Git/GitHub
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+
+- Codingpro Web Workshop Registration
+- Food Wastage & Donation – Design Thinking Project
+
+## 📚 Currently Learning
+
+- Frontend Development
+- Backend Development
+- Problem Solving
+- Git & GitHub
+
+## 🎯 Goals
+
+To improve my coding skills by building real-world projects and learning new technologies.
+
+---
+
+⭐ Thanks for visiting my profile!
